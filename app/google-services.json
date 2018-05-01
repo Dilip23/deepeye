@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1082943937338",
+    "firebase_url": "https://deepeye-dc026.firebaseio.com",
+    "project_id": "deepeye-dc026",
+    "storage_bucket": "deepeye-dc026.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082943937338:android:1ad9ee73ba775995",
+        "android_client_info": {
+          "package_name": "com.example.pradeep.deepeye"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082943937338-0s8qmo7e5d24d0mu14piierk8qbg6bst.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pradeep.deepeye",
+            "certificate_hash": "c2a8678b655f4bcf8c96dff7ddfef7bc7feebcce"
+          }
+        },
+        {
+          "client_id": "1082943937338-v2fb6gt8mh2iu9dn1tbmv48v9scpc25j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaILT2j8_4lP-C3BMzNm7r7ZOdWQvT8TE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082943937338-v2fb6gt8mh2iu9dn1tbmv48v9scpc25j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
