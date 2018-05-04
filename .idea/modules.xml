@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\pradeep-deepeye\deepeye\app\app.iml" filepath="E:\pradeep-deepeye\deepeye\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/deepeye.iml" filepath="$PROJECT_DIR$/deepeye.iml" />
+      <module fileurl="file://E:\pradeep-deepeye\deepeye\deepeye.iml" filepath="E:\pradeep-deepeye\deepeye\deepeye.iml" />
     </modules>
   </component>
 </project>
